@@ -1,8 +1,8 @@
 /*
  Program: Question 1 from quiz 1.
- Name : 
- Roll: 
- Output: 	
+ Name   : Milan Lamichhane
+ Roll   :
+ Output : 8
 */
 
 #include<iostream>
@@ -18,8 +18,8 @@ int main()
 	
 	a = 3;
 	p = &a;
-	q = p
+	q = p;
 	*q = *q + 5;
 	
-	count << *p;	
+	cout << *p;
 }
