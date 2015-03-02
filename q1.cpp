@@ -1,7 +1,7 @@
 /*
  Program: Question 1 from quiz 1.
- Name   : Milan Lamichhane
- Roll   :
+ Name   : Umang Raj Gurung
+ Roll   : 0315
  Output : 8
 */
 
